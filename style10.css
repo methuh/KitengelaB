@@ -1,0 +1,209 @@
+/*This stylesheet file styles the elementors*/
+
+
+
+.elementor-88 .elementor-element.elementor-element-23e36cb4 > 
+.elementor-container > 
+.elementor-column > 
+.elementor-widget-wrap{
+	align-content:center;
+	align-items:center;
+}
+
+.elementor-88 .elementor-element.elementor-element-23e36cb4:not(.elementor-motion-effects-element-type-background),
+ .elementor-88 .elementor-element.elementor-element-23e36cb4 >
+  .elementor-motion-effects-container > 
+  .elementor-motion-effects-layer{
+	background-color:var( --e-global-color-a291686 );
+}
+.elementor-88 .elementor-element.elementor-element-23e36cb4{
+	transition:background 0.3s, border 0.3s, border-radius 0.3s,box-shadow 0.3s;
+	 padding:20px 0px 15px 0px;
+	 z-index:9;
+	}
+.elementor-88 .elementor-element.elementor-element-23e36cb4 >
+ .elementor-background-overlay{
+	transition:background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-88 .elementor-element.elementor-element-830b2f9 .elementor-heading-title{
+	color:var( --e-global-color-e31a103 );
+	font-weight:800;
+}
+.elementor-88 .elementor-element.elementor-element-9c91ba7 .elementor-menu-toggle{
+	margin:0 auto;
+	background-color:var( --e-global-color-308e809 );
+}
+
+.elementor-88 .elementor-element.elementor-element-9c91ba7 .elementor-nav-menu .elementor-item{
+	font-family:"Manrope", Sans-serif;
+	font-size:16px;
+	font-weight:700;
+}
+
+.elementor-88 .elementor-element.elementor-element-9c91ba7 .elementor-nav-menu--main .elementor-item{
+	color:#000000;
+	fill:#000000;
+	padding-left:0px;
+	padding-right:0px;
+	padding-top:16px;
+	padding-bottom:16px;
+}
+
+.elementor-88 .elementor-element.elementor-element-9c91ba7 .elementor-nav-menu--main .elementor-item:hover,
+.elementor-88 .elementor-element.elementor-element-9c91ba7 .elementor-nav-menu--main .elementor-item.elementor-item-active,
+.elementor-88 .elementor-element.elementor-element-9c91ba7 .elementor-nav-menu--main .elementor-item.highlighted,
+.elementor-88 .elementor-element.elementor-element-9c91ba7 .elementor-nav-menu--main .elementor-item:focus{
+	color:var( --e-global-color-4f4e8e9 );
+	fill:var( --e-global-color-4f4e8e9 );
+}
+
+.elementor-88 .elementor-element.elementor-element-9c91ba7 .elementor-nav-menu--main .elementor-item.elementor-item-active{
+	color:var( --e-global-color-e31a103 );
+}
+
+.elementor-88 .elementor-element.elementor-element-9c91ba7{
+	--e-nav-menu-horizontal-menu-item-margin:calc( 32px / 2 );
+}
+
+.elementor-88 .elementor-element.elementor-element-9c91ba7 .elementor-nav-menu--main:not(.elementor-nav-menu--layout-horizontal) 
+.elementor-nav-menu > li:not(:last-child){
+	margin-bottom:32px;
+}
+
+.elementor-88 .elementor-element.elementor-element-9c91ba7 .elementor-nav-menu--dropdown a,
+.elementor-88 .elementor-element.elementor-element-9c91ba7 .elementor-menu-toggle{
+	color:var( --e-global-color-dea41e4 );
+}
+.elementor-88 .elementor-element.elementor-element-9c91ba7 .elementor-nav-menu--dropdown{
+	background-color:var( --e-global-color-a291686 );
+	border-radius:0px 0px 5px 5px;
+}
+
+.elementor-88 .elementor-element.elementor-element-9c91ba7 .elementor-nav-menu--dropdown a:hover,
+.elementor-88 .elementor-element.elementor-element-9c91ba7 .elementor-nav-menu--dropdown a.elementor-item-active,
+.elementor-88 .elementor-element.elementor-element-9c91ba7 .elementor-nav-menu--dropdown a.highlighted,
+.elementor-88 .elementor-element.elementor-element-9c91ba7 .elementor-menu-toggle:hover{
+	color:var( --e-global-color-a185853 );
+}
+
+.elementor-88 .elementor-element.elementor-element-9c91ba7 .elementor-nav-menu--dropdown a:hover,
+.elementor-88 .elementor-element.elementor-element-9c91ba7 .elementor-nav-menu--dropdown a.elementor-item-active,
+.elementor-88 .elementor-element.elementor-element-9c91ba7 .elementor-nav-menu--dropdown a.highlighted{
+	background-color:var( --e-global-color-308e809 );
+}
+
+.elementor-88 .elementor-element.elementor-element-9c91ba7 .elementor-nav-menu--dropdown .elementor-item,
+.elementor-88 .elementor-element.elementor-element-9c91ba7 .elementor-nav-menu--dropdown  .elementor-sub-item{
+	font-family:var( --e-global-typography-520c191-font-family ), Sans-serif;
+	font-size:var( --e-global-typography-520c191-font-size );
+	font-weight:var( --e-global-typography-520c191-font-weight );
+	letter-spacing:var( --e-global-typography-520c191-letter-spacing );
+	word-spacing:var( --e-global-typography-520c191-word-spacing );
+}
+
+.elementor-88 .elementor-element.elementor-element-9c91ba7 .elementor-nav-menu--dropdown li:first-child a{
+	border-top-left-radius:0px;
+	border-top-right-radius:0px;
+}
+
+.elementor-88 .elementor-element.elementor-element-9c91ba7 .elementor-nav-menu--dropdown li:last-child a{
+	border-bottom-right-radius:5px;
+	border-bottom-left-radius:5px;
+}
+
+.elementor-88 .elementor-element.elementor-element-9c91ba7 .elementor-nav-menu--main .elementor-nav-menu--dropdown,
+ .elementor-88 .elementor-element.elementor-element-9c91ba7 .elementor-nav-menu__container.elementor-nav-menu--dropdown{
+	box-shadow:0px 10px 20px 0px rgba(0, 0, 0, 0.1);
+}
+
+.elementor-88 .elementor-element.elementor-element-9c91ba7 div.elementor-menu-toggle{
+	color:var( --e-global-color-dea41e4 );
+}
+
+.elementor-88 .elementor-element.elementor-element-9c91ba7 div.elementor-menu-toggle svg{
+	fill:var( --e-global-color-dea41e4 );
+}
+
+.elementor-88 .elementor-element.elementor-element-1e0c2ded > 
+.elementor-element-populated{
+	padding:0px 0px 0px 0px;
+}
+
+.elementor-88 .elementor-element.elementor-element-7fab8834 .elementor-button{
+	background-color:var( --e-global-color-4f4e8e9 );
+	border-radius:0px 0px 0px 0px;
+	padding:30px 40px 30px 40px;
+}
+
+.elementor-88 .elementor-element.elementor-element-7fab8834 .elementor-button:hover,
+.elementor-88 .elementor-element.elementor-element-7fab8834 .elementor-button:focus{
+	background-color:var( --e-global-color-e31a103 );
+}
+
+@media(max-width:1024px){
+.elementor-88 .elementor-element.elementor-element-9c91ba7 .elementor-nav-menu--dropdown .elementor-item,
+.elementor-88 .elementor-element.elementor-element-9c91ba7 .elementor-nav-menu--dropdown  .elementor-sub-item{
+	font-size:var( --e-global-typography-520c191-font-size );
+	letter-spacing:var( --e-global-typography-520c191-letter-spacing );
+	word-spacing:var( --e-global-typography-520c191-word-spacing );
+}
+
+.elementor-88 .elementor-element.elementor-element-9c91ba7 .elementor-menu-toggle{
+	font-size:28px;
+}
+}
+
+
+@media(min-width:768px){
+	
+	.elementor-88 .elementor-element.elementor-element-246f2455{
+		width:16%;
+	}
+	
+	.elementor-88 .elementor-element.elementor-element-6753f8f2{
+		width:69%;
+	}
+	.elementor-88 .elementor-element.elementor-element-1e0c2ded{
+		width:14.666%;
+	}
+}
+
+@media(max-width:1024px) and (min-width:768px){
+	.elementor-88 .elementor-element.elementor-element-246f2455{
+		width:40%;
+	}
+	.elementor-88 .elementor-element.elementor-element-6753f8f2{
+		width:10%;
+	}
+	.elementor-88 .elementor-element.elementor-element-1e0c2ded{
+		width:26%;
+	}
+}
+
+
+@media(max-width:767px){
+	.elementor-88 .elementor-element.elementor-element-246f2455{
+		width:80%;
+	}
+	.elementor-88 .elementor-element.elementor-element-6753f8f2{
+		width:20%;
+	}
+	.elementor-88 .elementor-element.elementor-element-9c91ba7 .elementor-nav-menu .elementor-item{
+		font-size:14px;
+	}
+	.elementor-88 .elementor-element.elementor-element-9c91ba7 .elementor-nav-menu--dropdown .elementor-item,
+	.elementor-88 .elementor-element.elementor-element-9c91ba7 .elementor-nav-menu--dropdown  .elementor-sub-item{
+		font-size:var( --e-global-typography-520c191-font-size );
+		letter-spacing:var( --e-global-typography-520c191-letter-spacing );
+		word-spacing:var( --e-global-typography-520c191-word-spacing );
+	}
+	.elementor-88 .elementor-element.elementor-element-9c91ba7 .elementor-nav-menu--main >
+	.elementor-nav-menu > li > .elementor-nav-menu--dropdown,
+	.elementor-88 .elementor-element.elementor-element-9c91ba7 .elementor-nav-menu__container.elementor-nav-menu--dropdown{
+		margin-top:21px !important;
+	}
+	.elementor-88 .elementor-element.elementor-element-9c91ba7 .elementor-menu-toggle{
+		font-size:28px;
+	}
+}
